@@ -1,2 +1,2 @@
 # Landing_Page
-A responsive landing page using basic HTML and CSS
+A responsive landing page using basic HTML, CSS and JavaScript
